@@ -1,4 +1,4 @@
-# DrData by Vitalytics to Objectify Puritus in PBC Patients
+# DrData: Software to Objectively Quantify Pruritus in PBC Patients
 
 **DrData** is an AI-powered platform designed to improve the monitoring and management of patient health, with a special focus on those suffering from **Primary Biliary Cholangitis (PBC)** and chronic pruritus (itching). It supports both medical professionals and patients, offering tools for efficient communication, objective symptom tracking, and data-driven clinical decisions.
 
