@@ -18,7 +18,7 @@ The aim is to develop an **objective method to quantify pruritus** in PBC patien
 
 * **Multi-Platform Compatibility:** DrData is compatible with various medical devices and accessible from multiple platforms, offering intuitive interfaces for both healthcare providers and patients.
 
-## Prototype
+## Prototype: ## Persprctive from Patients
 
 ![image](https://github.com/user-attachments/assets/d92337b4-d1c7-4012-8094-fa0c711c687b)
 
@@ -36,9 +36,21 @@ The aim is to develop an **objective method to quantify pruritus** in PBC patien
 
 ![image](https://github.com/user-attachments/assets/38ca3b87-9e83-4192-b3e6-b6664eb349e8)
 
+## Prototype: Persprctive from Doctors and Medical Staff
 
+![image](https://github.com/user-attachments/assets/2d768dd3-f506-4a55-8571-e46483ad4049)
 
+![image](https://github.com/user-attachments/assets/c8441897-7199-444d-a6ad-2985cfbb51fd)
 
+![image](https://github.com/user-attachments/assets/50516ab9-ccb6-4f9d-a626-1334dadf4859)
+
+![image](https://github.com/user-attachments/assets/a448fa02-73f6-4f7d-acf2-316fab930b4f)
+
+![image](https://github.com/user-attachments/assets/8847fa69-c1db-49c6-a55b-e30700766e1f)
+
+![image](https://github.com/user-attachments/assets/02dc4c17-7c22-4cd5-8d5d-221056d3cd7b)
+
+![image](https://github.com/user-attachments/assets/685b18b5-7cfe-4b27-a0be-5fb4d80f7e41)
 
 ## Technology
 
