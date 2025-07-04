@@ -1,0 +1,28 @@
+#:
+#::: Data about the input to the conversion process
+Result-file-version: 1
+Convert-version: 1
+Processed: 2025-06-14 15:09:04.533
+File-input: CWA-DATA.CWA
+Results-output: info.txt
+Input-sectors-total: 1
+Input-sectors-data: 0
+Input-sectors-bad: 0
+#:
+#::: Data about the device that made the recording
+Id: 6029131
+Device: CWA
+Revision: 17
+Firmware: 56
+#:
+#::: Data about the recording itself
+Session: 0
+ClearTime: 2000-04-01 08:04:03.000
+ChangeTime: 2024-10-28 13:56:06.000
+Start: 2106-02-07 06:28:15.000
+Stop: 2106-02-07 06:28:15.000
+Config-A: 100,8
+Metadata: 
+#:
+#::: Data about the final state
+Exit: 65
