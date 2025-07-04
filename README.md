@@ -34,9 +34,9 @@ The aim is to develop an **objective method to quantify pruritus** in PBC patien
 
 ![image](https://github.com/user-attachments/assets/ac722ecd-fc0e-4fdc-aae1-a27633d3eab1)
 
-![image](https://github.com/user-attachments/assets/38ca3b87-9e83-4192-b3e6-b6664eb349e8)
 
 ## Prototype: Persprctive from Doctors and Medical Staff
+![image](https://github.com/user-attachments/assets/38ca3b87-9e83-4192-b3e6-b6664eb349e8)
 
 ![image](https://github.com/user-attachments/assets/2d768dd3-f506-4a55-8571-e46483ad4049)
 
