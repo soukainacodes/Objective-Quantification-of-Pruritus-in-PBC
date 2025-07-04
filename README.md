@@ -18,6 +18,28 @@ The aim is to develop an **objective method to quantify pruritus** in PBC patien
 
 * **Multi-Platform Compatibility:** DrData is compatible with various medical devices and accessible from multiple platforms, offering intuitive interfaces for both healthcare providers and patients.
 
+## Prototype
+
+![image](https://github.com/user-attachments/assets/d92337b4-d1c7-4012-8094-fa0c711c687b)
+
+![image](https://github.com/user-attachments/assets/dcba5527-c4ae-4436-9f10-a90a35ac5ce1)
+
+![image](https://github.com/user-attachments/assets/be680261-d7c0-4bb0-b9d6-bae87eef8c64)
+
+![image](https://github.com/user-attachments/assets/688cac70-8b07-4405-b363-70d0d6ad5ec4)
+
+![image](https://github.com/user-attachments/assets/b9337845-46c3-422b-ab6c-e5fabf597dd6)
+
+![image](https://github.com/user-attachments/assets/20539398-4095-42c7-8d2d-71b35001ba52)
+
+![image](https://github.com/user-attachments/assets/ac722ecd-fc0e-4fdc-aae1-a27633d3eab1)
+
+![image](https://github.com/user-attachments/assets/38ca3b87-9e83-4192-b3e6-b6664eb349e8)
+
+
+
+
+
 ## Technology
 
 The platform is built using **React** and developed with the support of **Lovable**. Its AI model has been trained on more than 9,000 tests and employs advanced clustering techniques to analyze and classify patient data, ensuring accurate and medically validated recommendations.
