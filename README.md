@@ -1,4 +1,4 @@
-# Objective Quantification of Pruritus in PBC (Ongoing Research)
+# Objective Quantification of Pruritus in PBC 
 
 ## Project Overview
 
@@ -23,13 +23,8 @@ We are developing a system integrating:
 
 **This project is still in development.** We are refining data collection methods, testing initial models, and collaborating with medical professionals.
 
-## Next Steps
-
-- **Prototype development & pilot testing.**
-- **Clinical validation & regulatory assessment.**
-- **Scaling for broader adoption.**
 
 
 
-**Disclaimer**: This research is ongoing, and methodologies may evolve based on further testing and validation.
+**Disclaimer**: This research is ongoing with Clinic Barcelona, and methodologies may evolve based on further testing and validation.
 
